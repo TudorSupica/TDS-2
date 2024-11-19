@@ -1,4 +1,4 @@
-23642074908017060
+23648980522756481
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64637,6 +64637,13 @@ Yellow 5381 Series LED
 0
 2
 2
+Library
+3PDT Footswitch
+
+
+0
+9
+9
 Module
 A20_OLINUXINO_LIME2
 A20 Olinuxino LIME2, 1.2GHz, 512-1024MB RAM, Micro-SD, NAND or eMMC, 1000Mbit Ethernet
@@ -96585,6 +96592,27 @@ Varistor VF
 0
 2
 2
+footprints
+DIP1524W56P254L5207H508Q40N
+40 PIN PLASTIC PACKAGE
+Integrated Circuit
+0
+40
+40
+footprints
+DIP1524W58P254L3696H558Q28N
+W65C51N6TPG-14-1
+Integrated Circuit
+0
+28
+28
+footprints
+DIP1556W56P254L3702H483Q28N
+PDIP-28P6
+Integrated Circuit
+0
+28
+28
 footprints
 PJ-644C
 

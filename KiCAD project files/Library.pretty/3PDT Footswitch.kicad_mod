@@ -1,0 +1,183 @@
+(footprint "3PDT Footswitch"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "ac9ee952-e875-4504-a82d-c7ddfbe35c40")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "3PDT Footswitch"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "7c44bf0f-00e6-49b9-8e54-d6abfa619fd9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at -12.52 12.04 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4dacb0c6-b677-4afb-b44d-f86f08dd10f4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -12.52 12.04 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3263e048-12d1-49ad-a8c2-223fd9965520")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -12.52 12.04 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "febfe8e3-464d-482e-a69e-1d9f358033a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -9.8 -8.6)
+		(end 9.8 8.6)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "7285c902-2a02-4606-9efe-4e73f7e5b09a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "d6ba55d8-185f-409a-832d-0d650a8260f3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 -4.7)
+		(size 3.5 2)
+		(drill oval 2.3 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.3280839895)
+		(uuid "4990fc6f-0c06-4d46-b8db-fffc24d6ef68")
+	)
+	(pad "2" thru_hole roundrect
+		(at 5.3 -4.7)
+		(size 3.5 2)
+		(drill oval 2.3 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.3280839895)
+		(uuid "5e988ce0-25f7-458e-988f-173992f19d33")
+	)
+	(pad "3" thru_hole roundrect
+		(at -5.3 -4.7)
+		(size 3.5 2)
+		(drill oval 2.3 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.3280839895)
+		(uuid "102314f5-828c-44c7-a7e2-1d1f753d88f6")
+	)
+	(pad "4" thru_hole roundrect
+		(at 0 0)
+		(size 3.5 2)
+		(drill oval 2.3 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.3280839895)
+		(uuid "bd0a3ea2-d717-4871-94d9-cc1e847fe911")
+	)
+	(pad "5" thru_hole roundrect
+		(at 5.3 0)
+		(size 3.5 2)
+		(drill oval 2.3 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.3280839895)
+		(uuid "e4d3f67d-d14e-490b-a887-b7e53bdad1df")
+	)
+	(pad "6" thru_hole roundrect
+		(at -5.3 0)
+		(size 3.5 2)
+		(drill oval 2.3 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.3280839895)
+		(uuid "70d03b69-f75a-4105-8e68-8952655f0439")
+	)
+	(pad "7" thru_hole roundrect
+		(at 0 4.7)
+		(size 3.5 2)
+		(drill oval 2.3 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.3280839895)
+		(uuid "02cee403-1057-49b3-a7b8-f6e9089625f2")
+	)
+	(pad "8" thru_hole roundrect
+		(at 5.3 4.7)
+		(size 3.5 2)
+		(drill oval 2.3 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.3280839895)
+		(uuid "f5f7cc73-436f-4b93-9a00-4d91cbb3612e")
+	)
+	(pad "9" thru_hole roundrect
+		(at -5.3 4.7)
+		(size 3.5 2)
+		(drill oval 2.3 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.3280839895)
+		(uuid "054e51fe-6ca2-4edb-a259-9559ab9c5ae4")
+	)
+	(group ""
+		(uuid "6323376b-f3c7-443a-badc-53323e1e8818")
+		(members "02cee403-1057-49b3-a7b8-f6e9089625f2" "054e51fe-6ca2-4edb-a259-9559ab9c5ae4"
+			"102314f5-828c-44c7-a7e2-1d1f753d88f6" "4990fc6f-0c06-4d46-b8db-fffc24d6ef68"
+			"5e988ce0-25f7-458e-988f-173992f19d33" "70d03b69-f75a-4105-8e68-8952655f0439"
+			"bd0a3ea2-d717-4871-94d9-cc1e847fe911" "e4d3f67d-d14e-490b-a887-b7e53bdad1df"
+			"f5f7cc73-436f-4b93-9a00-4d91cbb3612e"
+		)
+	)
+)
