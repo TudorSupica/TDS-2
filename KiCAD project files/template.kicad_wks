@@ -100,11 +100,6 @@
 		(start 110 5.5)
 		(end 2 5.5)
 	)
-	(tbtext "${KICAD_VERSION}"
-		(name "")
-		(pos 109 4.1)
-		(comment "Kicad version")
-	)
 	(line
 		(name "")
 		(start 110 8.5)

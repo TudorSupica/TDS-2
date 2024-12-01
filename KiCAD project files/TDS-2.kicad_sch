@@ -4,6 +4,9 @@
 	(generator_version "8.0")
 	(uuid "c6c7c38c-fde8-430a-a744-4f8132688d21")
 	(paper "A4")
+	(title_block
+		(date "2024-12-01")
+	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:TL072"
 			(pin_names
