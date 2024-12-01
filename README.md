@@ -4,6 +4,9 @@ The main features of the TDS-2 are the use of clipping diodes and a buffering st
 
 ![3D_isometric](https://github.com/user-attachments/assets/ef86e7f6-875a-43bb-ab0c-e3dd517bfd00)
 
+The PCB also has four M3 mounting holes that are connected directly to 0v, so that when I mount it in the enclosure, the aluminium enclosure gets grounded and acts like an EMF shield.
+One thing I'd improve upon are the traces since they're quite narrow and may be prone to high levels of noise.
+
 ![image](https://github.com/TudorSupica/TDS-2/blob/main/schematic/TDS-2.jpg)
 
 The enclosure I picked for this pedal and subsequent versions of it is the Hammond 1590B, since it's made out of aluminium it's relatively cheap and effective. The enclosure offers more of a professional look to the pedal whilst also doubling as protection against EMF and other elements.
