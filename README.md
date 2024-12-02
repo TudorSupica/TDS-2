@@ -1,4 +1,4 @@
-# The TDS-2
+# The [TDS-2](https://github.com/TudorSupica/TDS-2/)
 
 The TDS-2 is the next guitar pedal in the TDS series, with an improved design and use of a standard enclosure.
 
@@ -19,14 +19,14 @@ The main features of the circuit are:
 - 3PDT footswitch 
 - Hammond 1590B Al enclosure
 
-# The Schematic
+# [The Schematic](https://github.com/TudorSupica/TDS-2/blob/main/schematic/)
 
 ![image](https://github.com/TudorSupica/TDS-2/blob/main/schematic/TDS-2.jpg)
 
 The principle behind the TDS-2 distortion pedal is a high amplification factor. The TL072 IC has two op-amps. The first one is used as a buffer so that the imput signal is high enough. The second op-amp actually amplifies the signal, since it's in a inverting configuration to counter the phase shift of the buffer stage. 
 The amplification factor is given by the potentiometer that connects the oputput back to the inverting input. The capacitors are used to decouple and "delete" any DC voltage that might be present. I used two fast switching diodes to make a clipping stage, to ensure that the signal never goes above and below the +4,5v and -4,5v headroom.
 
-# The PCB 
+# [The PCB](https://github.com/TudorSupica/TDS-2/blob/main/PCB/)
 
 ![image](https://github.com/TudorSupica/TDS-2/blob/main/PCB/2D/2D_front.jpg)
 
