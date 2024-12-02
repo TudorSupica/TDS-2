@@ -6,6 +6,19 @@ The main features of the TDS-2 are the use of clipping diodes and a buffering st
 
 ![3D_isometric](https://github.com/user-attachments/assets/ef86e7f6-875a-43bb-ab0c-e3dd517bfd00)
 
+# Summary
+
+The main features of the circuit are: 
+
+- Buffer stage
+- High amplification factor
+- Clipping diodes
+- Decoupling and bypass capacitors
+- Standardised jack sockets, they pull the line low when not in use
+- Barrel jack for power 
+- 3PDT footswitch 
+- Hammond 1590B Al enclosure
+
 # The Schematic
 
 ![image](https://github.com/TudorSupica/TDS-2/blob/main/schematic/TDS-2.jpg)
