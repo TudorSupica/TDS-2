@@ -15,7 +15,7 @@ The amplification factor is given by the potentiometer that connects the oputput
 
 # The PCB 
 
-![image](https://github.com/TudorSupica/TDS-2/blob/main/PCB/2D/front.jpg)
+![image](https://github.com/TudorSupica/TDS-2/blob/main/PCB/2D/2D_front.jpg)
 
 The PCB also has four M3 mounting holes that are connected directly to 0v, so that when I mount it in the enclosure, the aluminium enclosure gets grounded and acts like an EMF shield.
 One thing I'd improve upon are the traces since they're quite narrow and may be prone to high levels of noise.
